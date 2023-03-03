@@ -5,3 +5,7 @@
 ##### 3 - Once the program has loaded, type the command "4" to start choosing plugins
 ##### 4 - Once all the plugins are loaded type the Path of the "main.py" file to start it!
 ##### 5 - Have fun
+
+---
+
+### Discord: [LithiaSQ](https://discord.gg/ahudqbAwre)
